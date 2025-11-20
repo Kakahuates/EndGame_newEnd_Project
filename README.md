@@ -1,6 +1,6 @@
 <h1 align="center">🎥 A new end for End Game 🎥</h1>
 
-<!-- Aquí comienza la sección de insginias -->
+<!-- This is where the badges section begins -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-en%20progreso-yellow?style=for-the-badge" style="margin: 0 10px;">
@@ -20,7 +20,7 @@
   Project to practice git by writing a new ending for our favorite avenger in Marvel's Avengers End Game movie.<br>
 </p><br>
 
-<!-- Aquí comienza la sección de descripcion -->
+<!-- The description section begins here -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVkcnNkdGF6dGJnNmlrazA3N2hpbDF0M2g2MWR0YzUzaGpvaWxyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F73KLZL9eAfDcDQFAt/giphy.gif" alt="Gato Animado" style="margin: 0; width: 200px; height: auto;">
 </p>
@@ -33,7 +33,11 @@
   <img src="https://i0.wp.com/thetechnovore.com/wp-content/uploads/2019/04/D40BuNcWAAEVP4r.jpg?w=1200&ssl=1" width="500" />
 </p><br>
 
-<!-- Aquí comienza la sección de tecnologias utilizadas -->
+<!-- Here begins the section where each team member edits the readme -->
+
+<h2 align="center">New ending for the Avenger</h2>
+
+<!-- This is where the section on technologies used begins -->
 
 <h2 align="center">Used Technologies</h2>
 <ul>
@@ -41,7 +45,7 @@
   <li><a href="https://git-scm.com/"  target="_blank">Git</a></li>
 </ul>
 
-<!-- Aquí comienza la sección de autores -->
+<!-- This is where the authors section begins. -->
 
 <h2 align="center">Authors</h2>
 <p align="center">
