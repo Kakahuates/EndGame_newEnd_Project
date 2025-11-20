@@ -6,7 +6,7 @@
 
 ![Editor](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![Número de ramas](https://img.shields.io/github/branches/kakahuates/EndGame_newEnd_Project?style=for-the-badge&logo=git&label=Branches)](https://github.com/Kakahuates/EndGame_newEnd_Project/branches)
+
 
 <p align="center">
   Project to practice git by writing a new ending for our favorite avenger in Marvel's Avengers End Game movie.<br>
