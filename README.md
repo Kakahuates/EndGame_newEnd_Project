@@ -89,6 +89,9 @@ Instead of growing old by staying in the past, Steve Rogers returned the Infinit
   </a>
   <br>
   <a href="https://github.com/jomelcalinao-coder" target="_blank">Jojo</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/SergioMRC" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/245169973?v=4" alt="Sergio" width="80" style="border-radius: 50%;">
   </a>
