@@ -58,6 +58,10 @@ Tony lives.
 Thor collapses, exhausted, but smiling:
 
 > “I finally aimed for the head.”
+<h3 align="center">Captain America</h3>
+<p align="center" style="max-width: 600px; 
+ margin-left: auto; margin-right: auto;">
+Instead of growing old by staying in the past, Steve Rogers returned the Infinity Stones and came back to the present, a man out of time once more. The fight was over, but he felt the world still needed a shield. He declined retirement and, with the help of Sam Wilson and Bucky Barnes, established a new global organization focused on humanitarian aid and training a new generation of heroes. He found a new purpose not by reliving the past, but by building a better future. He never did get that dance, but he found a different kind of peace, serving others to the very end.
 </p>
 
 <!-- This is where the section on technologies used begins -->
@@ -85,4 +89,9 @@ Thor collapses, exhausted, but smiling:
   </a>
   <br>
   <a href="https://github.com/jomelcalinao-coder" target="_blank">Jojo</a>
+  <a href="https://github.com/SergioMRC" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/245169973?v=4" alt="Sergio" width="80" style="border-radius: 50%;">
+  </a>
+  <br>
+  <a href="https://github.com/SergioMRC" target="_blank">Sergio Kozhan</a>
 </p>
